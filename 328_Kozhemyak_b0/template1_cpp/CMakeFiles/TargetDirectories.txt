@@ -1,0 +1,3 @@
+/home/vasya/Desktop/btyr/template1_cpp/CMakeFiles/rebuild_cache.dir
+/home/vasya/Desktop/btyr/template1_cpp/CMakeFiles/main.dir
+/home/vasya/Desktop/btyr/template1_cpp/CMakeFiles/edit_cache.dir
